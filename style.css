@@ -1,0 +1,55 @@
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.cuurent-location {
+  position: relative;
+  float: right;
+}
+.weatherapp {
+  padding: 30px;
+}
+
+.current-location {
+  position: relative;
+}
+
+.monday {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
+
+.tuesday {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
+
+.wednesday {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
+
+.thursday {
+  padding: 20px;
+  position: relative;
+  text-align: center;
+}
+.friday {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
+
+.saturday {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
+.sunday {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
